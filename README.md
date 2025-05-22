@@ -1,14 +1,3 @@
----
-title: 迦南的聊天室
-cover: 1.png
-date: 2025-05-22 20:41:25
-categories:
-  - 软件APP开发
-tags:
-  - Python
-  - 后端+窗体
-  - 迦南的聊天室
----
 
 ```markdown
 # 💬 迦南的聊天室（远程版）
